@@ -28,7 +28,7 @@ class _AboutPageState extends State<AboutPage> {
               children: <Widget>[
                 SizedBox(
                     width: MediaQuery.of(context).size.width,
-                    height: MediaQuery.of(context).size.height * .5,
+                    height: MediaQuery.of(context).size.height * .8,
                     //height: Image(image: AssetImage('assets/intropg1.PNG')).height,
 
                     child: Carousel(
