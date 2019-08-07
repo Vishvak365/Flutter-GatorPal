@@ -1,4 +1,4 @@
-#Tue Jul 30 16:06:34 EDT 2019
+#Wed Aug 07 18:19:51 EDT 2019
 base.0=C\:\\Users\\Vishvak Seenichamy\\Documents\\Flutter-Gatorpal\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
